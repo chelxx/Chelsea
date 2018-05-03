@@ -29,10 +29,10 @@ div#wrapper {
     opacity: 0.8;
 }
 div#banner-words h1 {
-    font-family: League;
+    font-family: Serendipity;
     text-align: center;
-    font-size: 110px;
-    font-weight: bold;
+    font-size: 170px;
+    font-weight: bolder;
     text-shadow: 4px 4px rgb(40, 40, 40);
     color: rgb(255, 110, 134);
 }
@@ -81,15 +81,15 @@ div#contact {
 }
 div#about-words h1 {
     text-align: center;
-    font-family: Serendipity;
+    font-family: League;
     font-weight: 900;
     font-size: 65px;
     color: rgb(255, 110, 134);
-    text-shadow: 1px 1px rgb(40, 40, 40);
+    /* text-shadow: 1px 1px rgb(40, 40, 40); */
 }
 div#portfolio-words h1 {
     text-align: center;
-    font-family: Serendipity;
+    font-family: League;
     font-weight: 900;
     font-size: 65px;
     color: rgb(255, 110, 134);
@@ -97,7 +97,7 @@ div#portfolio-words h1 {
 }
 div#contact-words h1 {
     text-align: center;
-    font-family: Serendipity;
+    font-family: League;
     font-weight: bolder;
     font-size: 75px;
     color: rgb(255, 110, 134);
